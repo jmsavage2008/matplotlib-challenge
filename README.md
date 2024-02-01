@@ -8,4 +8,6 @@ Resources List:
 - https://www.w3schools.com/python/pandas/ref_df_iterrows.asp
 - https://saturncloud.io/blog/how-to-detect-and-exclude-outliers-in-a-pandas-dataframe/#:~:text=Any%20data%20point%20outside%20the,75th%20percentiles%20of%20the%20dataset.
 - https://python-charts.com/distribution/box-plot-matplotlib/
+- https://stackoverflow.com/questions/14824456/edit-the-width-of-bars-using-pd-dataframe-plot
+- https://stackoverflow.com/questions/21090316/plotting-pandas-dataframes-in-to-pie-charts-using-matplotlib
 
